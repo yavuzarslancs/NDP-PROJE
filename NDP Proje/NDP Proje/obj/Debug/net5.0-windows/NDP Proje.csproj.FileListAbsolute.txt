@@ -1,0 +1,19 @@
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\NDP Proje.exe
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\NDP Proje.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\NDP Proje.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\NDP Proje.runtimeconfig.dev.json
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\NDP Proje.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\ref\NDP Proje.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\bin\Debug\net5.0-windows\NDP Proje.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.csprojAssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP_Proje.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\ref\NDP Proje.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP Proje.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Yavuz\NDP PROJE\NDP Proje\NDP Proje\obj\Debug\net5.0-windows\NDP_Proje.Properties.Resources.resources
